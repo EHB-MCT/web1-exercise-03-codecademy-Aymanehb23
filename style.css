@@ -1,0 +1,68 @@
+body{
+
+background-color: #e9eaea;
+
+font-family: sans-serif;
+
+
+margin: 50px;
+
+
+
+}
+
+
+
+h1{
+
+color:red;
+
+}
+
+
+p {
+
+    color: darkgray;
+
+    margin-bottom: 50px;
+
+
+}
+
+
+.grijs{
+
+
+color: grey;
+
+}
+
+
+
+
+a {
+
+background-color: red;
+
+color: white;
+
+font-weight: bold;
+
+padding: 15px;
+ 
+text-decoration: none;
+
+
+
+}
+
+a:hover{
+
+
+background-color:  #333;
+
+
+
+
+
+}
